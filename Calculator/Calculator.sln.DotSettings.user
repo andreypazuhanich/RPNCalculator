@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3e07a47a_002D5b89_002D43ac_002Db7d8_002Df7ad0edd6779/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SeparateInput #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B2FAFAC9-13B8-43B6-B9C0-1BD7D6786D18::.NETCoreApp,Version=v3.1::Calculator.ReversePolistNotationTest.ReversePolistNotationTest.SeparateInput&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8887e8d1_002D0364_002D45a7_002Db2c3_002D583436e3a9fa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SeparateInput #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B2FAFAC9-13B8-43B6-B9C0-1BD7D6786D18::.NETCoreApp,Version=v3.1::Calculator.ReversePolistNotationTest.ReversePolistNotationTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee4c534a_002Dcc2f_002D4f9d_002D8442_002D5b74b2c3375d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SeparateInput" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\pazuh\Desktop\RPNCalculator\Calculator\Calculator.Test" Presentation="&amp;lt;Calculator.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f4ada45d_002D7942_002D4bd2_002Dbd3a_002D546ed3b30b68/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ReversePolishNotationParser" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\pazuh\Desktop\RPNCalculator\Calculator\Calculator.Test" Presentation="&amp;lt;Calculator.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
